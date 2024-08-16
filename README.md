@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ZeusX5
+- 👀 I’m interested in working on cars or playing games, but lately has been coding/thinking of projects.
+- 🌱 I’m currently learning Python 3 with no real focus right now, but trying a little bit of everything. Eventually, would like to get to learn some JS and others.
+- 📫 How to reach me Batman-style signal?
+- ⚡ Fun fact: I learned a little bit of coding with HTML and Dreamweaver, but also when I created a simple game in Game Maker. Wasn't sure what language was the little code I did do though. Also, when I was kid I missed 4th of July because I was playing Sonic on my older brother's Sega Saturn. My parents told me to stop playing and go outside to blow up some fireworks. I went out, set off two or three bottle rockets and snuck back inside to play more. 
